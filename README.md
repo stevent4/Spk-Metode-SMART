@@ -28,4 +28,5 @@ Anda dapat berkontribusi pada pengembangan SPK SMART sapi berkualitas dengan mel
 SPK SMART sapi berkualitas dilisensikan di bawah lisensi MIT. Silakan lihat file LICENSE untuk informasi lebih lanjut.
 
 # Kontak
-Untuk informasi lebih lanjut atau pertanyaan seputar SPK SMART sapi berkualitas, silakan hubungi kami di spksapiberkualitas@contoh.com.
+Untuk informasi lebih lanjut atau pertanyaan seputar SPK SMART sapi berkualitas, silakan hubungi kami di 089620276245.
+Untuk file database bisa hubungi no di atas.

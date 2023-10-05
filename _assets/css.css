@@ -1,0 +1,15 @@
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+.dropdown .fa-angle-right {
+  margin-left: 16px;
+}
+.dropdown .dropdown-menu {
+  margin-left: 70px;
+}
+.dropdown .dropdown-menu .fa-folder {
+  margin-right: 10px;
+}
+.login-logo span {
+  color: white;
+}
